@@ -1,0 +1,40 @@
+body{
+	background-color:beige;
+	font-size:11pt;
+	margin-top:3cm;
+	margin-right:2cm;
+	margin-left:2cm;
+}
+
+h2,div{
+	text-align:center;
+	color:red;
+	font-size:12pt;
+	font-weight:bold;
+}
+
+#parrafo{
+	font-size:24pt;
+	text-align:center;
+	color:blue;
+	font-style:underline;
+}
+
+#frase{
+	font-size:14pt;
+	text-align:center;
+	color:green;
+}
+
+span{
+	font-size:18;
+	font-style:italic;
+}
+
+#titulo{
+	color:pink;
+	text-align:center;
+	font-size:14pt;
+	font-style:underline, italic;
+	font-weight:bold;
+}

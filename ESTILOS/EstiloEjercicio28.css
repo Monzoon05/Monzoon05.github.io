@@ -1,0 +1,63 @@
+body{
+	font-family:"verdana";
+}
+
+#cuerpo{
+	background-color:beige;
+	margin:10px;
+	display:flex;
+}
+
+#pie{
+	text-align:center;
+	margin:10px;
+	font-weight:bold;
+	color:#CB0000;
+}
+
+.caja{
+	margin:10px;
+}
+
+img{
+	height:150px;
+}
+
+h1{
+	color:#333;
+	font-size:20px;
+	text-align:center;
+}
+
+h2{
+	color:grey;
+	font-size:16px;
+}
+
+ul, ol{
+	font-weight:bold;
+	font-size:12;
+}
+
+ul{
+	color:blue;
+}
+
+ol{
+	color:green;
+}
+
+@media (max-width:1200px){
+	#cuerpo{
+		display:flex;
+	}
+	
+	
+}
+
+@media (max-width:480px){
+	#cuerpo{
+		display:flex;
+		flex-direction:column;
+	}
+}

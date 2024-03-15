@@ -1,0 +1,21 @@
+body{
+	background-image:url("../imagenes/imagenesEj11/fondoazul.jpg");
+	background-repeat:repeat;
+}
+ul{
+	list-style-type:circle;
+}
+ul ol{
+	list-style-type:decimal;
+	font-weight:bold;
+	font-style:italic;
+	color:red;
+}
+ul ol p{
+	font-size:25pt;
+	color:green;
+}
+img{
+	border:5px solid black;
+	width: 300px;
+}

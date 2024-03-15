@@ -1,0 +1,30 @@
+body {
+    background-color: #99FFCC;
+    text-align: center; /
+}
+
+header, footer {
+    padding: 20px;
+}
+
+.cabecera1 {
+    text-align: center;
+    text-decoration: underline;
+	text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+}
+
+.cabecera3 {
+    text-align: center;
+}
+
+.contenido {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /
+    padding: 20px;
+}
